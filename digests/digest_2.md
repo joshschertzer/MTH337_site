@@ -1,5 +1,8 @@
 # Weekly digest 2
-
+## Joshua
+:::{epigraph}
+How important is the formatting of our reports when it comes to the project? Will many points be taken off for formatting mistakes?
+:::
 ## Daniel
 
 :::{epigraph}
