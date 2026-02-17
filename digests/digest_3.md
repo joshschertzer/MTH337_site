@@ -1,5 +1,9 @@
 # Weekly digest 3
+## Joshua
 
+:::{epigraph}
+Will the projects be cumulative /  build upon each other, or will we be starting with a blank project each time?
+:::
 ## Joseph
 
 :::{epigraph}
