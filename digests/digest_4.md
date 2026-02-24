@@ -1,5 +1,9 @@
 # Weekly digest 4
+## Joshua
 
+:::{epigraph}
+Will grading for project 2 be more strict now that we feedback from project 1?
+:::
 ## Alan
 
 :::{epigraph}
