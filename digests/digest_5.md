@@ -1,5 +1,11 @@
 # Weekly digest 5
+## Joshua
 
+:::{epigraph}
+Will any projects be cumulative? Or will each project be unique?
+:::
+
+I am not sure yet, it will depend on how far we get with it this week. 
 ## Jenna
 
 :::{epigraph}
