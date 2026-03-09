@@ -1,5 +1,10 @@
 # Weekly digest 6
 
+## Joshua S. 
+
+:::{epigraph}
+Will any project be cumulative on top of another, or will all be unique?
+:::
 ## Joseph
 
 :::{epigraph}
